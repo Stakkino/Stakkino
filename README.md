@@ -23,7 +23,7 @@
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 | **Conception** | ![UML](https://img.shields.io/badge/UML-Apprentissage-lightgrey?style=for-the-badge&logo=uml)!
 [Maths](https://img.shields.io/badge/Maths-Logic-orange?style=for-the-badge) |
-| **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| **Outils** | [Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
