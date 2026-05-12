@@ -73,7 +73,7 @@
 ## 📫 Me contacter
 
 <p align="center">
-  <a href="https://github.com/jhenstakkino-art" target="_blank">
+  <a href="https://github.com/Stakkino" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@Stakkino-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
   </a>
   &nbsp;
