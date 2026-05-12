@@ -7,30 +7,40 @@
 ---
 
 ### 🧠 À propos de moi
-Étudiant en Informatique (L2), je me concentre sur le développement de solutions backend performantes et la modélisation de données. Issu d'un parcours scientifique (Série D), j'aime appliquer la logique mathématique à la résolution de problèmes informatiques.
+Étudiant en Informatique, je me concentre sur le développement de solutions backend performantes et la modélisation de données. Issu d'un parcours scientifique, j'aime appliquer la logique mathématique à la résolution de problèmes informatiques.
 
-- 🔭 **Focus actuel :** Maîtriser le framework Django et approfondir l'Algorithmique.
-- 🏗️ **Conception :** Utilisation de Merise et apprentissage continu de l'UML pour structurer mes projets.
+- 🔭 **Focus actuel :** Maîtriser le framework **Django** et approfondir l'Algorithmique.
+- 🏗️ **Conception :** Utilisation de **Merise** et apprentissage de l'**UML** pour structurer mes projets.
 - ➗ **Compétences clés :** Analyse mathématique, logique et rigueur dans le code.
 
 ---
 
-### 🛠 Compétences Techniques
+### 🛠 Compétences Techniques (Résumé)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Maths-Analyse-FF69B4?style=for-the-badge&logo=wolframmathematica&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 | Domaine | Technologies |
 | :--- | :--- |
-| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
-| **Conception** | ![UML](https://img.shields.io/badge/UML-Apprentissage-lightgrey?style=for-the-badge&logo=uml)!
-[Maths](https://img.shields.io/badge/Maths-Logic-orange?style=for-the-badge) |
-| **Outils** | [Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| **Backend** | Python, Django, C++ |
+| **Frontend** | React (Bases) |
+| **Conception** | Merise, UML (En cours) |
+| **Mathématiques** | Analyse, Logique, NumPy |
 
 ---
 
 ### 📈 Mes Statistiques GitHub
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Stakkino&show_icons=true&theme=tokyonight&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stakkino&layout=compact&theme=tokyonight" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Stakkino&show_icons=true&theme=tokyonight&count_private=true" />
+<br/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stakkino&layout=compact&theme=tokyonight" />
 </p>
 
 ---
