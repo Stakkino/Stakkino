@@ -6,6 +6,12 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Apprenti+D%C3%A9veloppeur+Backend;Passionn%C3%A9+par+les+Bases+de+Donn%C3%A9es;Explorateur+d'IA+%26+Algorithmes;Logique+Math%C3%A9matique+au+service+du+Code" alt="Typing SVG" />
 
+[![Profile Views](https://komarev.com/ghpvc/?username=Stakkino&color=36BCF7&style=flat-square)](https://github.com/Stakkino)
+  [![GitHub followers](https://img.shields.io/github/followers/Stakkino?color=36BCF7&label=Followers&logo=github&style=flat-square)](https://github.com/Stakkino?tab=followers)
+  [![GitHub stars](https://img.shields.io/github/stars/Stakkino?color=36BCF7&label=Stars&logo=github&style=flat-square)](https://github.com/Stakkino?tab=repositories)
+</div>
+
+
 ---
 
 ## 🧠 À propos de moi
