@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" alt="wave">
 
-  # Salut, moi c'est **Stakkino** ! 👋
+  # Hi, I'm **Stakkino** ! 👋
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Apprenti+D%C3%A9veloppeur+Backend;Passionn%C3%A9+par+les+Bases+de+Donn%C3%A9es;Explorateur+d%27IA+%26+Algorithmes;Logique+Math%C3%A9matique+au+service+du+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Apprentice+Backend+Developer;Passionate+about+Databases;Explorer+of+AI+%26+Algorithms;Mathematical+Logic+in+Service+of+Code" alt="Typing SVG" />
 
   [![Profile Views](https://komarev.com/ghpvc/?username=Stakkino&color=36BCF7&style=flat-square)](https://github.com/Stakkino)
   [![GitHub followers](https://img.shields.io/github/followers/Stakkino?color=36BCF7&label=Followers&logo=github&style=flat-square)](https://github.com/Stakkino?tab=followers)
@@ -12,85 +12,75 @@
 
 ---
 
-## 🧠 À propos de moi
+## 🧠 About Me
 
-> *Étudiant en Informatique passionné par la structure des données et la résolution de problèmes. Mon approche de la programmation est fortement influencée par la logique mathématique : j'aime construire des solutions claires, cohérentes et bien pensées.*
+> *Computer Science student passionate about data structures and problem solving. My approach to programming is strongly influenced by mathematical logic: I love building clear, consistent, and well-thought-out solutions.*
 
-- 🔭 **Focus actuel :** Approfondissement de **Django** et de l'algorithmique.
-- 🏗️ **Conception :** Modélisation avec la méthode **UML** pour des architectures logicielles claires.
-- ➗ **L'esprit Math :** J'aime appliquer l'analyse et la logique pour optimiser mes petits projets.
-- 🌱 **En apprentissage :** Intelligence Artificielle et manipulation de données.
-- ⚡ **Fun fact :** Pour moi, un code bien structuré est aussi beau qu'une équation bien résolue.
+- 🔭 **Current Focus:** Deepening my knowledge of **Django** and algorithms.
+- 🏗️ **Design:** Modeling with the **UML** method for clear software architectures.
+- ➗ **Math Mindset:** I love applying analysis and logic to optimize my projects.
+- 🌱 **Currently Learning:** Artificial Intelligence and data manipulation.
+- ⚡ **Fun fact:** For me, well-structured code is as beautiful as a well-solved equation.
 
 ---
 
-## 🛠 Stack Technique
+## 🛠 Tech Stack
 
-### Langages & Frameworks
+### Languages & Frameworks
 
 <p align="left">
-  <!-- Python -->
   <a href="https://www.python.org/" title="Python">
     <img src="https://skillicons.dev/icons?i=python" width="44" />
   </a>
-  <!-- Django -->
   <a href="https://www.djangoproject.com/" title="Django">
     <img src="https://skillicons.dev/icons?i=django" width="44" />
   </a>
-  <!-- C++ -->
   <a href="https://isocpp.org/" title="C++">
     <img src="https://skillicons.dev/icons?i=cpp" width="44" />
   </a>
-  <!-- React -->
   <a href="https://react.dev/" title="React">
     <img src="https://skillicons.dev/icons?i=react" width="44" />
   </a>
-  <!-- HTML5 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
     <img src="https://skillicons.dev/icons?i=html" width="44" />
   </a>
-  <!-- CSS3 -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
     <img src="https://skillicons.dev/icons?i=css" width="44" />
   </a>
 </p>
 
-### Mathématiques & Conception
+### Mathematics & Design
 
 <p align="left">
-  <!-- Wolfram Mathematica -->
   <a href="https://www.wolfram.com/mathematica/" title="Wolfram Mathematica">
     <img src="https://skillicons.dev/icons?i=wolfram" width="44" />
   </a>
-  <!-- PostgreSQL -->
   <a href="https://www.postgresql.org/" title="PostgreSQL">
     <img src="https://skillicons.dev/icons?i=postgres" width="44" />
   </a>
-  <!-- Git -->
   <a href="https://git-scm.com/" title="Git">
     <img src="https://skillicons.dev/icons?i=git" width="44" />
   </a>
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" title="VS Code">
-    <img src="https://skillicons.dev/icons?i=vscode" width="44" />
+  <a href="https://www.uml.org/" title="UML Modeling">
+    <img src="https://img.shields.io/badge/UML-Modeling-FABD14?style=for-the-badge&logo=uml&logoColor=white" height="44" />
   </a>
 </p>
 
 ---
 
-## 📊 Mon Parcours d'Apprentissage
+## 📊 My Learning Journey
 
-| Domaine | Sujets d'études | Status |
+| Domain | Study Topics | Status |
 |:---|:---|:---:|
-| **Backend** | Python, Django, Langage C++ | En progression |
-| **Bases de Données** | UML, PostgreSQL | Passionné |
-| **Mathématiques** | Algèbre, Analyse, Logique | Fondations |
-| **Frontend** | HTML5, CSS3, React | Bases |
-| **Outils** | Git, GitHub, VS Code | Quotidien |
+| **Backend** | Python, Django, C++ | In Progress |
+| **Databases** | UML, PostgreSQL | Passionate |
+| **Mathematics** | Algebra, Analysis, Logic | Foundations |
+| **Frontend** | HTML5, CSS3, React | Basics |
+| **Tools** | Git, GitHub, VS Code | Daily Use |
 
 ---
 
-## 📈 Statistiques GitHub
+## 📈 GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Stakkino&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7" />
@@ -103,7 +93,7 @@
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact Me
 
 <p align="center">
   <a href="https://github.com/Stakkino" target="_blank">
@@ -119,11 +109,7 @@
 
 <div align="center">
 
-### 💡 Multilingual Quote — *Leonardo da Vinci*
-
-| 🇫🇷 Français | 🇬🇧 English | 🇲🇬 Malagasy |
-|:---:|:---:|:---:|
-| *"La simplicité est la sophistication suprême"* | *"Simplicity is the ultimate sophistication"* | *"Ny fahatsorana no famirapiratan'ny fahavononana ambony indrindra"* |
+### 💡 *"Simplicity is the ultimate sophistication"* — Leonardo da Vinci
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer&animation=twinkling" width="100%"/>
 
