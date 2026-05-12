@@ -30,19 +30,19 @@
 
 ### Langages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" />
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white&color=3776AB" />
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=django&logoColor=white&color=092E20" />
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C" />
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232A" />
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" />
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" />
 </p>
 
 ### Mathématiques & Conception
 <p align="left">
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=FF69B4" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1" />
-  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" />
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=wolframmathematica&logoColor=white&color=FF69B4" />
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1" />
+  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
 </p>
 
 ---
