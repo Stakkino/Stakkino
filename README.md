@@ -32,7 +32,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a2e" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a2e" />
 </p>
 
@@ -49,8 +49,8 @@
 
 | Domaine | Sujets d'études | Status |
 |:---|:---|:---:|
-| **Backend** | Python, Django, Langage C | En progression |
-| **Bases de Données** | Modélisation Merise, SQL | Passionné |
+| **Backend** | Python, Django, Langage C++ | En progression |
+| **Bases de Données** | UML, postgreSQL | Passionné |
 | **Mathématiques** | Algèbre, Analyse, Logique | Fondations |
 | **Frontend** | HTML5, CSS3, React | Bases |
 | **Outils** | Git, GitHub, VS Code | Quotidien |
@@ -74,7 +74,7 @@
 
 <p align="center">
   <a href="https://github.com/jhenstakkino-art" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@jhenstakkino--art-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/GitHub-@Stakkino-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
   </a>
   &nbsp;
   <a href="mailto:jhenstakkino@gmail.com" target="_blank">
