@@ -28,12 +28,12 @@
 
 ### Langages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/.%20-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/.%20-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/.%20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/.%20-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/.%20-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/.%20-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="44" title="Python" />
+  <img src="https://cdn.simpleicons.org/django/092E20" width="44" title="Django" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="44" title="C++" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="44" title="React" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="44" title="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="44" title="CSS3" />
 </p>
 
 ### Mathématiques & Conception
