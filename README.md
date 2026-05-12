@@ -37,10 +37,12 @@
 </p>
 
 ### Mathématiques & Conception
+
 <p align="left">
-  <img src="https://img.shields.io/badge/.%20-FF69B4?style=for-the-badge&logo=wolframmathematica&logoColor=white" />
-  <img src="https://img.shields.io/badge/.%20-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/.%20-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/wolfram/FF69B4" width="44" title="Wolfram Mathematica" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="44" title="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="44" title="Git" />
+  <img src="https://cdn.simpleicons.org/uml/FABD14" width="44" title="UML (Modélisation)" />
 </p>
 
 ---
