@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnF3eGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="60" alt="wave">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" alt="wave">
 
   # Salut, moi c'est **Stakkino** ! 👋
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Apprenti+D%C3%A9veloppeur+Backend;Passionn%C3%A9+par+les+Bases+de+Donn%C3%A9es;Explorateur+d'IA+%26+Algorithmes;Logique+Math%C3%A9matique+au+service+du+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Apprenti+D%C3%A9veloppeur+Backend;Passionn%C3%A9+par+les+Bases+de+Donn%C3%A9es;Explorateur+d%27IA+%26+Algorithmes;Logique+Math%C3%A9matique+au+service+du+Code" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Stakkino&color=36BCF7&style=flat-square)](https://github.com/Stakkino)
+  [![Profile Views](https://komarev.com/ghpvc/?username=Stakkino&color=36BCF7&style=flat-square)](https://github.com/Stakkino)
   [![GitHub followers](https://img.shields.io/github/followers/Stakkino?color=36BCF7&label=Followers&logo=github&style=flat-square)](https://github.com/Stakkino?tab=followers)
   [![GitHub stars](https://img.shields.io/github/stars/Stakkino?color=36BCF7&label=Stars&logo=github&style=flat-square)](https://github.com/Stakkino?tab=repositories)
 </div>
@@ -27,22 +27,53 @@
 ## 🛠 Stack Technique
 
 ### Langages & Frameworks
+
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="44" title="Python" />
-  <img src="https://cdn.simpleicons.org/django/092E20" width="44" title="Django" />
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="44" title="C++" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="44" title="React" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="44" title="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="44" title="CSS3" />
+  <!-- Python -->
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://skillicons.dev/icons?i=python" width="44" />
+  </a>
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/" title="Django">
+    <img src="https://skillicons.dev/icons?i=django" width="44" />
+  </a>
+  <!-- C++ -->
+  <a href="https://isocpp.org/" title="C++">
+    <img src="https://skillicons.dev/icons?i=cpp" width="44" />
+  </a>
+  <!-- React -->
+  <a href="https://react.dev/" title="React">
+    <img src="https://skillicons.dev/icons?i=react" width="44" />
+  </a>
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+    <img src="https://skillicons.dev/icons?i=html" width="44" />
+  </a>
+  <!-- CSS3 -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+    <img src="https://skillicons.dev/icons?i=css" width="44" />
+  </a>
 </p>
 
 ### Mathématiques & Conception
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/wolfram/FF69B4" width="44" title="Wolfram Mathematica" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="44" title="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/git/F05032" width="44" title="Git" />
-  <img src="https://cdn.simpleicons.org/uml/FABD14" width="44" title="UML (Modélisation)" />
+  <!-- Wolfram Mathematica -->
+  <a href="https://www.wolfram.com/mathematica/" title="Wolfram Mathematica">
+    <img src="https://skillicons.dev/icons?i=wolfram" width="44" />
+  </a>
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" title="PostgreSQL">
+    <img src="https://skillicons.dev/icons?i=postgres" width="44" />
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" width="44" />
+  </a>
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" title="VS Code">
+    <img src="https://skillicons.dev/icons?i=vscode" width="44" />
+  </a>
 </p>
 
 ---
@@ -64,9 +95,9 @@
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Stakkino&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stakkino&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7" />
-  
+
   <br/><br/>
-  
+
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Stakkino&theme=tokyonight&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=FF69B4&currStreakLabel=36BCF7" />
 </div>
 
@@ -87,9 +118,13 @@
 ---
 
 <div align="center">
-  
-  ### 💡 *"La simplicité est la sophistication suprême"* — Léonard de Vinci
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer&animation=twinkling" width="100%"/>
-  
+
+### 💡 Multilingual Quote — *Leonardo da Vinci*
+
+| 🇫🇷 Français | 🇬🇧 English | 🇲🇬 Malagasy |
+|:---:|:---:|:---:|
+| *"La simplicité est la sophistication suprême"* | *"Simplicity is the ultimate sophistication"* | *"Ny fahatsorana no famirapiratan'ny fahavononana ambony indrindra"* |
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer&animation=twinkling" width="100%"/>
+
 </div>
