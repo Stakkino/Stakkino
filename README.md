@@ -20,7 +20,9 @@
 | Domaine | Technologies |
 | :--- | :--- |
 | **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Conception** | ![Merise](https://img.shields.io/badge/Méthode-Merise-blue?style=for-the-badge) ![UML](https://img.shields.io/badge/UML-Apprentissage-lightgrey?style=for-the-badge&logo=uml) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **Conception** | ![UML](https://img.shields.io/badge/UML-Apprentissage-lightgrey?style=for-the-badge&logo=uml)!
+[Maths](https://img.shields.io/badge/Maths-Logic-orange?style=for-the-badge) |
 | **Outils** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
