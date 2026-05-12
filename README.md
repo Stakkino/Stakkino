@@ -30,17 +30,19 @@
 
 ### Langages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" />
+  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20" />
+  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C" />
+  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" />
+  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" />
+  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" />
 </p>
 
 ### Mathématiques & Conception
 <p align="left">
-  <img src="https://img.shields.io/badge/Logique_Maths-FF69B4?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/Merise-0066CC?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=wolframmathematica&logoColor=white&labelColor=FF69B4" />
+  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1" />
+  <img src="https://img.shields.io/badge/-%20?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" />
 </p>
 
 ---
