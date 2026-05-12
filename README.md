@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnF3eGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="60" alt="wave">
 
@@ -10,7 +9,6 @@
   [![GitHub followers](https://img.shields.io/github/followers/Stakkino?color=36BCF7&label=Followers&logo=github&style=flat-square)](https://github.com/Stakkino?tab=followers)
   [![GitHub stars](https://img.shields.io/github/stars/Stakkino?color=36BCF7&label=Stars&logo=github&style=flat-square)](https://github.com/Stakkino?tab=repositories)
 </div>
-
 
 ---
 
@@ -52,7 +50,7 @@
 | Domaine | Sujets d'études | Status |
 |:---|:---|:---:|
 | **Backend** | Python, Django, Langage C++ | En progression |
-| **Bases de Données** | UML, postgreSQL | Passionné |
+| **Bases de Données** | UML, PostgreSQL | Passionné |
 | **Mathématiques** | Algèbre, Analyse, Logique | Fondations |
 | **Frontend** | HTML5, CSS3, React | Bases |
 | **Outils** | Git, GitHub, VS Code | Quotidien |
