@@ -17,7 +17,7 @@
 > *Étudiant en Informatique passionné par la structure des données et la résolution de problèmes. Mon approche de la programmation est fortement influencée par la logique mathématique : j'aime construire des solutions claires, cohérentes et bien pensées.*
 
 - 🔭 **Focus actuel :** Approfondissement de **Django** et de l'algorithmique.
-- 🏗️ **Conception :** Modélisation avec la méthode **Merise** pour des bases de données robustes.
+- 🏗️ **Conception :** Modélisation avec la méthode **UML** pour des architectures logicielles claires.
 - ➗ **L'esprit Math :** J'aime appliquer l'analyse et la logique pour optimiser mes petits projets.
 - 🌱 **En apprentissage :** Intelligence Artificielle et manipulation de données.
 - ⚡ **Fun fact :** Pour moi, un code bien structuré est aussi beau qu'une équation bien résolue.
@@ -28,19 +28,19 @@
 
 ### Langages & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white&color=3776AB" />
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=django&logoColor=white&color=092E20" />
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=00599C" />
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=react&logoColor=61DAFB&color=20232A" />
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=white&color=E34F26" />
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=white&color=1572B6" />
+  <img src="https://img.shields.io/badge/.%20-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/.%20-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/.%20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/.%20-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/.%20-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/.%20-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### Mathématiques & Conception
 <p align="left">
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=wolframmathematica&logoColor=white&color=FF69B4" />
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=postgresql&logoColor=white&color=4169E1" />
-  <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=git&logoColor=white&color=F05032" />
+  <img src="https://img.shields.io/badge/.%20-FF69B4?style=for-the-badge&logo=wolframmathematica&logoColor=white" />
+  <img src="https://img.shields.io/badge/.%20-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/.%20-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
