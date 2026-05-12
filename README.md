@@ -29,41 +29,22 @@
 ### Languages & Frameworks
 
 <p align="left">
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://skillicons.dev/icons?i=python" width="44" />
-  </a>
-  <a href="https://www.djangoproject.com/" title="Django">
-    <img src="https://skillicons.dev/icons?i=django" width="44" />
-  </a>
-  <a href="https://isocpp.org/" title="C++">
-    <img src="https://skillicons.dev/icons?i=cpp" width="44" />
-  </a>
-  <a href="https://react.dev/" title="React">
-    <img src="https://skillicons.dev/icons?i=react" width="44" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-    <img src="https://skillicons.dev/icons?i=html" width="44" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
-    <img src="https://skillicons.dev/icons?i=css" width="44" />
-  </a>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="44" title="Python" />
+  <img src="https://cdn.simpleicons.org/django/092E20" width="44" title="Django" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="44" title="C++" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="44" title="React" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="44" title="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="44" title="CSS3" />
 </p>
 
 ### Mathematics & Design
 
 <p align="left">
-  <a href="https://www.wolfram.com/mathematica/" title="Wolfram Mathematica">
-    <img src="https://skillicons.dev/icons?i=wolfram" width="44" />
-  </a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL">
-    <img src="https://skillicons.dev/icons?i=postgres" width="44" />
-  </a>
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" width="44" />
-  </a>
-  <a href="https://www.uml.org/" title="UML Modeling">
-    <img src="https://img.shields.io/badge/UML-Modeling-FABD14?style=for-the-badge&logo=uml&logoColor=white" height="44" />
-  </a>
+  <img src="https://cdn.simpleicons.org/wolfram/FF69B4" width="44" title="Wolfram Mathematica" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="44" title="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="44" title="Git" />
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="44" title="GitHub" />
+  <img src="https://cdn.simpleicons.org/uml/FABD14" width="44" title="UML (Modeling)" />
 </p>
 
 ---
