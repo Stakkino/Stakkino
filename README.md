@@ -78,7 +78,7 @@
   </a>
   &nbsp;
   <a href="mailto:jhenstakkino@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/Email-Jhen Stakkino-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
   </a>
 </p>
 
