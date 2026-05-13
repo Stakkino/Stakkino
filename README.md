@@ -28,22 +28,22 @@
 
 ### Languages & Frameworks
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="44" title="Python" />
-  <img src="https://cdn.simpleicons.org/django/092E20" width="44" title="Django" />
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="44" title="C++" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="44" title="React" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="44" title="HTML5" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="44" title="CSS3" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="44" title="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" title="CSS3" />
 </p>
 
 ### Mathematics & Design
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.simpleicons.org/wolfram/FF69B4" width="44" title="Wolfram Mathematica" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="44" title="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/git/F05032" width="44" title="Git" />
-  <img src="https://cdn.simpleicons.org/github/ffffff" width="44" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" title="GitHub" />
   <img src="https://cdn.simpleicons.org/uml/FABD14" width="44" title="UML (Modeling)" />
 </p>
 
@@ -90,7 +90,7 @@
 
 <div align="center">
 
-### 💡 *"Simplicity is the ultimate sophistication"* — Leonardo da Vinci
+### *"Simplicity is the ultimate sophistication"* — Leonardo da Vinci
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer&animation=twinkling" width="100%"/>
 
