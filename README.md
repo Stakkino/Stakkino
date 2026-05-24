@@ -41,6 +41,8 @@
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/wolfram/FF69B4" width="44" title="Wolfram Mathematica" />
+  <img src="https://jsdelivr.net" width="44" title="SQL" />
+  <img src="https://jsdelivr.net" width="44" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" title="GitHub" />
@@ -54,7 +56,7 @@
 | Domain | Study Topics | Status |
 |:---|:---|:---:|
 | **Backend** | Python, Django, C++ | In Progress |
-| **Databases** | UML, PostgreSQL | Passionate |
+| **Databases** | UML, SQL, MySQL, PostgreSQL | Passionate |
 | **Mathematics** | Algebra, Analysis, Logic | Foundations |
 | **Frontend** | HTML5, CSS3, React | Basics |
 | **Tools** | Git, GitHub, VS Code | Daily Use |
