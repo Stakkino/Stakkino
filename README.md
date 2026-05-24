@@ -41,12 +41,13 @@
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/wolfram/FF69B4" width="44" title="Wolfram Mathematica" />
-  <img src="https://jsdelivr.net" width="44" title="SQL" />
-  <img src="https://jsdelivr.net" width="44" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="44" title="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" title="GitHub" />
   <img src="https://cdn.simpleicons.org/uml/FABD14" width="44" title="UML (Modeling)" />
+  <img src="https://simpleicons.org" width="44" title="MySQL" />
+  <img src="https://simpleicons.org" width="44" title="SQL Server" />
 </p>
 
 ---
