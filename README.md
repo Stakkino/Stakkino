@@ -57,7 +57,7 @@
 | **Backend** | Python, Django, C++ | In Progress |
 | **Databases** | UML, MySQL, PostgreSQL | Passionate |
 | **Mathematics** | Algebra, Analysis, Logic | Foundations |
-| **Frontend** | HTML5, CSS3, React | Basics |
+| **Frontend** | HTML5, CSS3, ReactJS | Basics |
 | **Tools** | Git, GitHub, VS Code | Daily Use |
 
 ---
