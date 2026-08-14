@@ -38,35 +38,35 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 <div align="center">
 
-### 💻 Programming Languages
+###  Programming Languages
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" alt="Python" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" alt="JavaScript" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="90" alt="C++" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
 
-### ⚙️ Backend & Frontend
+###  Backend & Frontend
 <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" alt="Django" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="75" alt="React" />
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs" width="106" />
 <img src="https://skillicons.dev/icons?i=html,css" width="106" />
 
-### 🗄️ Databases & Modeling
+###  Databases & Modeling
 <img src="https://skillicons.dev/icons?i=mysql,postgres" width="106" />
 <img src="https://cdn.simpleicons.org/uml/F5A623" width="52" title="UML" />
 <img src="https://cdn.simpleicons.org/wolframmathematica/F5A623" width="52" title="Wolfram Mathematica" />
 
-### 🔧 Tools & OS
+###  Tools & OS
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" width="220" />
 
 </div>
 
 ---
 
-## 📊 My Learning Journey
+##  My Learning Journey
 
 | Domain | Study Topics | Status |
 |:---|:---|:---:|
@@ -79,24 +79,26 @@
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Stakkino&theme=dark&hide_border=false&ring_color=87CEEB&title_color=4B9CD3&text_color=87CEEB&include_all_commits=false&count_private=false"
-             width="100%" style="display:block; margin:0;" alt="GitHub Stats"/>
-      <br/>
- <img width="100%" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Stakkino&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" style="display:block; margin:0;"/>
-      <br/>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Stakkino&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-             width="100%" style="display:block; margin:0;" alt="Top Languages"/>
-    </td>
-    <td width="50%" valign="center">
-      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Stakkino&theme=tokyonight" width="98%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stakkino&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Stakkino&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stakkino&theme=tokyonight" width="32%" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
 ## 📈 Activity Graph
@@ -114,7 +116,7 @@
 
 ---
 
-## 🗂️ Activity Overview
+##  Activity Overview
 
 <div align="center">
   <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stakkino&theme=github_dark" />
@@ -126,7 +128,7 @@
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 <p align="center">
   <a href="https://github.com/Stakkino" target="_blank">
@@ -144,6 +146,8 @@
 
 ### *"Simplicity is the ultimate sophistication"* — Leonardo da Vinci
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5A623,100:FF8C00&height=100&section=footer&animation=twinkling" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=35&fontAlignY=70&animation=twinkling" width="100%"/>
+</div>
 
 </div>
