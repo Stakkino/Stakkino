@@ -1,24 +1,24 @@
 <div align="center">
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  # Hi, I'm **Stakkino** ! 👋
+   Hi, I'm Stakkino! 
 </h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5A623&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Django+%26+PostgreSQL;Passionate+about+Databases+%26+Algorithms;Explorer+of+AI+%26+Mathematics;Mathematical+Logic+in+Service+of+Code" alt="Typing SVG" />
 
+
   <br/>
 
-  <a href="https://github.com/Stakkino?tab=followers">
-    <img src="https://img.shields.io/github/followers/Stakkino?label=Followers&style=for-the-badge&color=F5A623&logo=github&logoColor=white&labelColor=1a1a1a" />
-  </a>
-  <a href="https://github.com/Stakkino?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Stakkino?label=Stars&style=for-the-badge&color=FF8C00&logo=github&logoColor=white&labelColor=1a1a1a" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Stakkino&color=F5A623&style=for-the-badge&label=Profile+Views" />
-
-  <br/><br/>
-
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="AI & Maths passion" />
+
+---
+<br/>
+  <p align="center">
+  <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+      <img src="https://komarev.com/ghpvc/?username=Stakkino">
+  </a>
+  <a href="https://github.com/Stakkino?tab=followers"><img src="https://img.shields.io/github/followers/eimantahir027?label=Followers&style=social" alt="GitHub Badge"></a>
+  </p>
 
 </div>
 
@@ -52,7 +52,7 @@
 <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" alt="Django" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="75" alt="React" />
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs" width="106" />
-<img src="https://skillicons.dev/icons?i=html,css" width="160" />
+<img src="https://skillicons.dev/icons?i=html,css" width="106" />
 
 ### 🗄️ Databases & Modeling
 <img src="https://skillicons.dev/icons?i=mysql,postgres" width="106" />
@@ -117,11 +117,11 @@
 ## 🗂️ Activity Overview
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stakkino&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Stakkino&theme=github_dark" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Stakkino&theme=github_dark" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Stakkino&theme=github_dark" />
   <br/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stakkino&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Stakkino&theme=github_dark&utcOffset=3" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Stakkino&theme=github_dark" />
+  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Stakkino&theme=github_dark&utcOffset=3" />
 </div>
 
 ---
