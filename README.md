@@ -17,7 +17,7 @@
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
       <img src="https://komarev.com/ghpvc/?username=Stakkino">
   </a>
-  <a href="https://github.com/Stakkino?tab=followers"><img src="https://img.shields.io/github/followers/eimantahir027?label=Followers&style=social" alt="GitHub Badge"></a>
+  <a href="https://github.com/Stakkino?tab=followers"><img src="https://img.shields.io/github/followers/Stakkino?label=Followers&style=social" alt="GitHub Badge"></a>
   </p>
 
 </div>
@@ -44,7 +44,7 @@
 
 ### 💻 Programming Languages
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" alt="Python" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="90" alt="JavaScript" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" alt="JavaScript" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="90" alt="C++" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
 
