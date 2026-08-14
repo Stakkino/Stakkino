@@ -15,7 +15,6 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="AI & Maths passion" />
 
----
 <br/>
   <p align="center">
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -28,7 +27,7 @@
 
 ---
 
-## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" /> About Me
+## About Me
 
 > *"Well-structured code is as beautiful as a well-solved equation."*
 
