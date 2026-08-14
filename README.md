@@ -45,12 +45,13 @@
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" alt="Python" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="90" alt="JavaScript" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="90" alt="C++" />
-<img src="https://skillicons.dev/icons?i=ts,html,css" width="160" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
 
 ### ⚙️ Backend & Frontend
 <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" alt="Django" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="75" alt="React" />
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs" width="106" />
+<img src="https://skillicons.dev/icons?html,css" width="160" />
 
 ### 🗄️ Databases & Modeling
 <img src="https://skillicons.dev/icons?i=mysql,postgres" width="106" />
@@ -82,18 +83,19 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Stakkino&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=F5A623&icon_color=FF8C00&text_color=c9d1d9" width="100%" style="display:block; margin:0;" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Stakkino&theme=dark&hide_border=false&ring_color=87CEEB&title_color=4B9CD3&text_color=87CEEB&include_all_commits=false&count_private=false"
+             width="100%" style="display:block; margin:0;" alt="GitHub Stats"/>
       <br/>
-      <img width="100%" src="https://streak-stats.demolab.com/?user=Stakkino&theme=dark&hide_border=true&background=0D1117&stroke=0d1117&ring=F5A623&fire=FF8C00&currStreakLabel=F5A623" style="display:block; margin:0;"/>
+ <img width="100%" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=Stakkino&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" style="display:block; margin:0;"/>
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stakkino&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=F5A623&text_color=c9d1d9" width="100%" style="display:block; margin:0;" alt="Top Languages"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Stakkino&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+             width="100%" style="display:block; margin:0;" alt="Top Languages"/>
     </td>
-    <td width="50%" valign="center" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Coding robot" />
+    <td width="50%" valign="center">
+      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
     </td>
   </tr>
 </table>
-
 ---
 
 ## 📈 Activity Graph
