@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Stakkino/Stakkino/main/stakk.gif" alt="Developer" width="500"/>
+  <img src="https://raw.githubusercontent.com/Stakkino/Stakkino/main/me.gif" alt="Developer" width="500"/>
 </div>
 
 <div align="center">
