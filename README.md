@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" alt="wave">
 
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   # Hi, I'm **Stakkino** ! 👋
+</h1>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5A623&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Django+%26+PostgreSQL;Passionate+about+Databases+%26+Algorithms;Explorer+of+AI+%26+Mathematics;Mathematical+Logic+in+Service+of+Code" alt="Typing SVG" />
 
@@ -51,7 +52,7 @@
 <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" alt="Django" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="75" alt="React" />
 <img src="https://skillicons.dev/icons?i=nextjs,nodejs" width="106" />
-<img src="https://skillicons.dev/icons?html,css" width="160" />
+<img src="https://skillicons.dev/icons?i=html,css" width="160" />
 
 ### 🗄️ Databases & Modeling
 <img src="https://skillicons.dev/icons?i=mysql,postgres" width="106" />
