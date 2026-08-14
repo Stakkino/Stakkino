@@ -37,17 +37,26 @@
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css" width="320" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" alt="Python" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" alt="JavaScript" />
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" alt="TypeScript" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" alt="C++" />
+<img src="https://skillicons.dev/icons?i=html,css" width="90" />
 
 ### ⚙️ Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=django,react,nodejs" width="160" />
+<img src="https://techstack-generator.vercel.app/django-icon.svg" width="45" alt="Django" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" alt="React" />
+<img src="https://techstack-generator.vercel.app/nextjs-icon.svg" width="65" alt="Next.js" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="45" />
 
 ### 🗄️ Databases & Modeling
-<img src="https://skillicons.dev/icons?i=mysql,postgres" width="106" />
-<img src="https://cdn.simpleicons.org/uml/F5A623" width="52" title="UML" />
-<img src="https://cdn.simpleicons.org/wolframmathematica/F5A623" width="52" title="Wolfram Mathematica" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="80" alt="MySQL" />
+<img src="https://skillicons.dev/icons?i=postgres" width="45" />
+<img src="https://cdn.simpleicons.org/uml/F5A623" width="45" title="UML" />
+<img src="https://cdn.simpleicons.org/wolframmathematica/F5A623" width="45" title="Wolfram Mathematica" />
 
 ### 🔧 Tools
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" alt="Docker" />
 <img src="https://skillicons.dev/icons?i=git,github,vscode" width="160" />
 
 </div>
@@ -61,7 +70,7 @@
 | **Backend** | Python, Django, C++ | 🟠 In Progress |
 | **Databases** | UML, MySQL, PostgreSQL | 🟠 Passionate |
 | **Mathematics** | Algebra, Analysis, Logic | 🟢 Foundations |
-| **Frontend** | HTML5, CSS3, ReactJS | 🟢 Basics |
+| **Frontend** | HTML5, CSS3, ReactJS, Next.js | 🟢 Basics |
 | **AI & Data** | Machine Learning, Data manipulation | 🟡 Learning |
 | **Tools** | Git, GitHub, VS Code | 🟢 Daily Use |
 
